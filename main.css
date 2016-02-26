@@ -1,0 +1,27 @@
+div {
+	float: left;
+	position: absolute;
+	background: red;
+	max-height: 100px;
+	max-width: 100px;
+	top: 300px;
+	left: 20px;
+	overflow: hidden;
+}
+
+
+
+img {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	height: 100%;
+	width: 100%;
+	background: black;
+}
+
+h1 {
+	color: white;
+}
